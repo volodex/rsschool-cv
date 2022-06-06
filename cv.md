@@ -11,4 +11,6 @@ about yourself (your goal and priorities, emphasize your strengths, tell us abou
 # Work experience 
 Junior Dev can list training projects with the skills used and links to the source code.
 # Education: 
-# English: level B1.
+Belarusian State Technological University
+# English: 
+level B1.
